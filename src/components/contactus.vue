@@ -18,7 +18,7 @@
       <div id="wayofcontact">
 
 
-        <button id="cf4" target="_blank" onclick="window.location.href='https://qm.qq.com/cgi-bin/qm/qr?k=_MXIavH-bKiRMl5LvZHVKnIjjhuHDNGC&jump_from=webapi'" alt="Geek组迎新群" title="群号:1050679488" class="q">QQ Group</button>
+        <button id="cf4" target="_blank" onclick="window.location.href='https://qm.qq.com/cgi-bin/qm/qr?k=_MXIavH-bKiRMl5LvZHVKnIjjhuHDNGC&jump_from=webapi'" alt="Geek组迎新群" title="群号:60587286" class="q">QQ Group</button>
 
         <button id="cf5" onclick="window.location.href='https://github.com/ntgeek'" TITLE="Geek组Github" class="q">Github</button>
 
@@ -53,7 +53,7 @@
 #bianselong2{
   display: none;
 }
-  #contact{position: relative;right: 8%;top: 256vw;}
+  #contact{position: relative;right: 8%;top: 197vw;}
   span{font-size: 1.5vw;font-family: FZYaoti;position: relative;top: -26vw;color:rgb(69, 100, 90);line-height: 2.8vw;}
   #wen4{position: absolute;left: 32%;top:35vw;line-height: 2vw;} 
   #uscontact{width: 24vw;position:relative;top: -38vw;right: 16%;}
