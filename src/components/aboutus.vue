@@ -53,7 +53,7 @@
   #background {
     position: relative;
     left: 5%;
-    width: 85vw;
+    width: 94vw;
   }
   #rightTop {
     position: absolute;
